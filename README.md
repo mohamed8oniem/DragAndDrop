@@ -6,7 +6,9 @@ A simple drag-and-drop application built using **Vite**, featuring **Material UI
 
 ## Features
 
+- Reusable Components and Hooks for future usage.
 - Drag and drop functionality for intuitive user interaction.
+- Popup Modal to preview the product details.
 - Styled with **Material UI** for pre-built components and **Tailwind CSS** for custom styling.
 - **Axios** for handling API requests efficiently.
 
@@ -14,6 +16,7 @@ A simple drag-and-drop application built using **Vite**, featuring **Material UI
 
 ## Technologies Used
 
+- **React Router Dom**: React Router Dom for routing.
 - **Vite**: Lightning-fast development server.
 - **Material UI**: Modern React components for faster development.
 - **Tailwind CSS**: Utility-first CSS framework for quick styling.
