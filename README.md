@@ -22,9 +22,7 @@ A simple drag-and-drop application built using **Vite**, featuring **Material UI
 
 ---
 
-## Setup and Installation ```bash
-
-## Project Setup
+## Setup and Installation
 
 ```sh
 npm install
