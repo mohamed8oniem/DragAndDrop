@@ -1,8 +1,28 @@
-# React + Vite
+# Drag and Drop App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple drag-and-drop application built using **Vite**, featuring **Material UI**, **Tailwind CSS**, and **Axios** for seamless UI design and API integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Drag and drop functionality for intuitive user interaction.
+- Styled with **Material UI** for pre-built components and **Tailwind CSS** for custom styling.
+- **Axios** for handling API requests efficiently.
+
+---
+
+## Technologies Used
+
+- **Vite**: Lightning-fast development server.
+- **Material UI**: Modern React components for faster development.
+- **Tailwind CSS**: Utility-first CSS framework for quick styling.
+- **Axios**: Promise-based HTTP client for making API calls.
+- **Iconify**: Massive icons library for icons.
+
+---
+
+## Setup and Installation ```bash
+
+npm install
+npm run dev
